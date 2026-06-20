@@ -6,7 +6,7 @@ import {
   ArrowRight, Video, Search, FileSearch, Cpu
 } from "lucide-react";
 
-const API_URL = "/api/analyze";
+const API_URL = "https://sanarip-koz.onrender.com/api/analyze";
 
 const INCIDENT_META = {
   HEALTH_AND_SAFETY: {
